@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Talk2riyaz/React-static-./static/css/main.5f361e03.chunk.css",
+    "main.js": "/Talk2riyaz/React-static-./static/js/main.99ce98ca.chunk.js",
+    "main.js.map": "/Talk2riyaz/React-static-./static/js/main.99ce98ca.chunk.js.map",
+    "runtime-main.js": "/Talk2riyaz/React-static-./static/js/runtime-main.597962c4.js",
+    "runtime-main.js.map": "/Talk2riyaz/React-static-./static/js/runtime-main.597962c4.js.map",
+    "static/js/2.09095345.chunk.js": "/Talk2riyaz/React-static-./static/js/2.09095345.chunk.js",
+    "static/js/2.09095345.chunk.js.map": "/Talk2riyaz/React-static-./static/js/2.09095345.chunk.js.map",
+    "index.html": "/Talk2riyaz/React-static-./index.html",
+    "precache-manifest.4d5d04b1fea62d6aa5543412823ac0b5.js": "/Talk2riyaz/React-static-./precache-manifest.4d5d04b1fea62d6aa5543412823ac0b5.js",
+    "service-worker.js": "/Talk2riyaz/React-static-./service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Talk2riyaz/React-static-./static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.09095345.chunk.js.LICENSE.txt": "/Talk2riyaz/React-static-./static/js/2.09095345.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Talk2riyaz/React-static-./static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.597962c4.js",
+    "static/js/2.09095345.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.99ce98ca.chunk.js"
+  ]
+}
